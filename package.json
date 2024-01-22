@@ -1,6 +1,6 @@
 {
   "name": "@jakoblierman/tsconfig",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Personal TypeScript configuration",
   "author": {
     "name": "Jakob Lierman",
