@@ -1,3 +1,5 @@
+import { describe, expect, it } from 'vitest';
+
 describe('TypeScript Configuration', () => {
   it('Should enforce strict mode', () => {
     // Ensure strict null checks by testing a potentially nullable value
