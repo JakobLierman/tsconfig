@@ -22,7 +22,5 @@
       "@/*": ["./src/*"],
       "@public/*": ["./public/*"]
     }
-  },
-  "include": ["./**/*"],
-  "exclude": ["node_modules"]
+  }
 }

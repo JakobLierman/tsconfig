@@ -24,10 +24,12 @@ pnpm add --save-dev typescript @jakoblierman/tsconfig
 
 Create a `tsconfig.json` file in your project's root and extend this configuration:
 
-```json
+```jsonc
 {
   "$schema": "https://json.schemastore.org/tsconfig",
-  "extends": "@jakoblierman/tsconfig/base.json"
+  "extends": "@jakoblierman/tsconfig/base.json",
+  "include": ["**/*"],
+  "exclude": ["node_modules"],
   // Add additional configuration if needed
 }
 ```
