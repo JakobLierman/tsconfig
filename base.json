@@ -8,6 +8,7 @@
   "compilerOptions": {
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
+    "checkJs": false,
     "composite": true,
     "declaration": true,
     "declarationMap": true,
