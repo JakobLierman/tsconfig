@@ -19,8 +19,11 @@
     "resolveJsonModule": true,
     "sourceMap": true,
     "paths": {
-      "@/*": ["./src/*"],
-      "@public/*": ["./public/*"]
+      "@/*": ["src/*"],
+      "@test/*": ["test/*"],
+      "@types/*": ["types/*"],
+      "@config/*": ["config/*"],
+      "@public/*": ["public/*"]
     }
   }
 }
