@@ -8,6 +8,7 @@
   "compilerOptions": {
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
+    "checkJs": false,
     "composite": true,
     "declaration": true,
     "declarationMap": true,
@@ -18,10 +19,11 @@
     "resolveJsonModule": true,
     "sourceMap": true,
     "paths": {
-      "@/*": ["./src/*"],
-      "@public/*": ["./public/*"]
+      "@/*": ["src/*"],
+      "@test/*": ["test/*"],
+      "@types/*": ["types/*"],
+      "@config/*": ["config/*"],
+      "@public/*": ["public/*"]
     }
-  },
-  "include": ["./**/*"],
-  "exclude": ["node_modules"]
+  }
 }
