@@ -20,10 +20,11 @@
     "sourceMap": true,
     "paths": {
       "@/*": ["src/*"],
-      "@test/*": ["test/*"],
-      "@types/*": ["types/*"],
-      "@config/*": ["config/*"],
-      "@public/*": ["public/*"]
+      "@/test/*": ["test/*"],
+      "@/types/*": ["types/*"],
+      "@/config/*": ["config/*"],
+      "@/public/*": ["public/*"]
     }
-  }
+  },
+  "exclude": ["node_modules", "dist", "coverage"]
 }

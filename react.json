@@ -3,9 +3,7 @@
   "display": "React",
   "extends": "./base.json",
   "compilerOptions": {
-    "jsx": "preserve",
-    "paths": {
-      "@/*": ["./src/*"]
-    }
-  }
+    "jsx": "preserve"
+  },
+  "exclude": ["node_modules", "dist", "coverage"]
 }
