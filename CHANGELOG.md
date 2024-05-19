@@ -1,3 +1,10 @@
+## [0.1.0](https://github.com/JakobLierman/tsconfig/compare/v0.0.2...v0.1.0) (2024-05-19)
+
+### Features
+
+- add bun config ([3843b5c](https://github.com/JakobLierman/tsconfig/commit/3843b5c5ae9ec010afdeaaf1f156e07f1087112e))
+- finetune base config ([acba5ba](https://github.com/JakobLierman/tsconfig/commit/acba5bacd7abaffe2479db08959ec4e08f1e221a))
+
 ## [0.0.2](https://github.com/JakobLierman/tsconfig/compare/v0.0.1...v0.0.2) (2024-02-25)
 
 ### Bug Fixes
