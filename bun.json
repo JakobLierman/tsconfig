@@ -1,9 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
-  "display": "React",
-  "extends": "./base.json",
-  "compilerOptions": {
-    "jsx": "preserve"
-  },
+  "display": "Bun",
+  "extends": ["./base.json", "@tsconfig/bun/tsconfig.json"],
   "exclude": ["node_modules", "dist", "coverage"]
 }
