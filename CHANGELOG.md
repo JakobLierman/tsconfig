@@ -1,3 +1,8 @@
+## <small>0.1.1 (2024-12-19)</small>
+
+- fix: enable browser apis for react ([16c9f5b](https://github.com/JakobLierman/tsconfig/commit/16c9f5b))
+- chore: upgrade packages ([e4a45e3](https://github.com/JakobLierman/tsconfig/commit/e4a45e3))
+
 ## [0.1.0](https://github.com/JakobLierman/tsconfig/compare/v0.0.2...v0.1.0) (2024-05-19)
 
 ### Features
