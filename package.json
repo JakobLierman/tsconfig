@@ -40,27 +40,27 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@tsconfig/bun": "^1.0.5",
+    "@tsconfig/bun": "^1.0.7",
     "@tsconfig/next": "^2.0.3",
-    "@tsconfig/node-lts": "^20.1.3",
-    "@tsconfig/recommended": "^1.0.6",
+    "@tsconfig/node-lts": "^22.0.1",
+    "@tsconfig/recommended": "^1.0.8",
     "@tsconfig/strictest": "^2.0.5"
   },
   "peerDependencies": {
     "typescript": "^5"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.3.0",
+    "@commitlint/cli": "^19.6.1",
     "@jakoblierman/commitlint-config": "^2.0.0",
     "@jakoblierman/prettier-config": "^0.2.0",
-    "@release-it/conventional-changelog": "^8.0.1",
-    "@vitest/coverage-v8": "^1.6.0",
-    "husky": "^9.0.11",
+    "@release-it/conventional-changelog": "^9.0.3",
+    "@vitest/coverage-v8": "^2.1.8",
+    "husky": "^9.1.7",
     "lint-staged": "latest",
-    "prettier": "^3.2.5",
-    "release-it": "^17.2.1",
-    "ts-essentials": "^10.0.0",
-    "vitest": "^1.6.0",
+    "prettier": "^3.4.2",
+    "release-it": "^17.10.0",
+    "ts-essentials": "^10.0.3",
+    "vitest": "^2.1.8",
     "vitest-github-actions-reporter": "^0.11.1",
     "vitest-github-actions-summary-reporter": "^0.1.1"
   },
