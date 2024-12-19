@@ -3,7 +3,8 @@
   "display": "React",
   "extends": "./base.json",
   "compilerOptions": {
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "lib": ["dom", "dom.iterable", "esnext"]
   },
   "exclude": ["node_modules", "dist", "coverage"]
 }
