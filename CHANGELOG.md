@@ -1,3 +1,10 @@
+# Changelog
+
+## <small>0.1.2 (2025-06-26)</small>
+
+- chore: upgrade packages ([86c1c83](https://github.com/JakobLierman/tsconfig/commit/86c1c83))
+- chore: vitest github reporter ([de7d06b](https://github.com/JakobLierman/tsconfig/commit/de7d06b))
+
 ## <small>0.1.1 (2024-12-19)</small>
 
 - fix: enable browser apis for react ([16c9f5b](https://github.com/JakobLierman/tsconfig/commit/16c9f5b))
